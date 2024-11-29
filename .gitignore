@@ -1,0 +1,13 @@
+# Default ignored files
+.idea/
+.gradle/
+.vscode/
+build/
+bin/
+output/
+.DS_Store
+
+streams.properties
+ccloud.properties
+*.log
+.java-version
